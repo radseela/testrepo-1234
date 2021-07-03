@@ -16,6 +16,9 @@ kubeadm join 192.168.33.11:6443 --token 0nx6gr.8l6fvnruikh7gwy9 \
 ============================================================
 
 https://wiprocon1.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=wiprocon1&service=6&rnd=0.8439762730313058&main_url=https%3A%2F%2Fwiprocon1.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b0000000451226972515855411614a1bb14b5bc7782b8956e5cedf5c95b8be04f41f1c8e6%26siteurl%3Dwiprocon1%26confViewID%3D166367332547964068%26encryptTicket%3DSDJTSwAAAAQcmyk-5UtmNOVCMHBvYC4ShiZ24b5OxiFy1wujH8sFsA2%26
-Event number: 161 024 4634Event password: 234EDGE
+Event number: 161 024 4634
+Event password: 234EDGE
 
 https://wiprocon1.webex.com/wiprocon1/onstage/g.php?MTID=e6ce36605f3f09211d1eb658962ac955e
+sdfgqwetw ,mgqert wepojtqe4,ngqerytqe4[i0tqwe4e
+tqwe4ew4 tqerertyqerhyhwrgfhwrn
